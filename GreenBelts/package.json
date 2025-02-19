@@ -1,0 +1,23 @@
+{
+  "name": "greenbelts",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
+    "bootstrap": "^5.3.3",
+    "leaflet": "^1.9.4",
+    "vue": "^3.5.13",
+    "vue-custom-range-slider": "^0.2.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.11",
+    "vite-plugin-vue-devtools": "^7.7.0"
+  }
+}
